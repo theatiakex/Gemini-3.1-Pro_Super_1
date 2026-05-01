@@ -1,0 +1,12 @@
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\bin\Debug\net10.0\SubtitleQC.Core.deps.json
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\bin\Debug\net10.0\SubtitleQC.Core.dll
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\bin\Debug\net10.0\SubtitleQC.Core.pdb
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.AssemblyInfoInputs.cache
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.AssemblyInfo.cs
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.csproj.CoreCompileInputs.cache
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.sourcelink.json
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.dll
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\refint\SubtitleQC.Core.dll
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\SubtitleQC.Core.pdb
+C:\KTH\KEX\Gemini 3.1 Pro\Super\Gemini-3.1-Pro_Super_1\SubtitleQC.Core\obj\Debug\net10.0\ref\SubtitleQC.Core.dll
